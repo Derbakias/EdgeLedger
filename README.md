@@ -1,4 +1,4 @@
-#EdgeLedger-Website
+# EdgeLedger-Website
 
 A sample for a fictional accounting firm which can be easily adjusted and used as a template for any company in the financial industry. 
 
